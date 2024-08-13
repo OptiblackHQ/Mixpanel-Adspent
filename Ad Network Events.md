@@ -81,6 +81,7 @@ Different ad networks provide different ways to access their raw data. Some allo
 - Facebook provides a Marketing Insights API for ad performance metrics: [https://developers.facebook.com/docs/marketing-api/insights](https://developers.facebook.com/docs/marketing-api/insights)
 - LinkedIn provides a Marketing Reporting API for ad performance data: [https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads-reporting/getting-started](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads-reporting/getting-started)
 - Twitter provides an Ads Analytics API that can be used to extract performance data: [https://developer.twitter.com/en/docs/twitter-ads-api/analytics/overview](https://developer.twitter.com/en/docs/twitter-ads-api/analytics/overview)
+- Reddit provides an Ads Analytics API that can be used to extract performance data:[https://ads-api.reddit.com/docs/v3/operations/Get%20A%20Report](https://ads-api.reddit.com/docs/v3/operations/Get%20A%20Report)
 
 ## **Detailed Guides**
 
